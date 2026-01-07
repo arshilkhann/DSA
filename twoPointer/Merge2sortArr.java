@@ -8,7 +8,7 @@ public class Merge2sortArr {
         int j = 0 ;
         int id = 0 ;
 
-        while (i<arr1.length && j<arr2.length) {
+        while (i<arr1.length && j<arr2.length) { 
             if (arr1[i]<arr2[j]) {
                 newarr[id]=arr1[i];
                 id++;
