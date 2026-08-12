@@ -34,6 +34,6 @@ public class secondLargest {
         else {
             System.out.println("The second largest element is: " + secondLargest);
         }
-        return secondLargest;
+        return secondLargest ;
     }
 }
