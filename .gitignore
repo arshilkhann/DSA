@@ -1,0 +1,18 @@
+# Java compiled files
+*.class
+
+# Java build directories
+bin/
+out/
+target/
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# DSA generated output
+output.txt
+
+# OS files
+.DS_Store
+Thumbs.db
