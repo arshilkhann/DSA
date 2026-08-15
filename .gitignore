@@ -12,6 +12,7 @@ target/
 
 # DSA generated output
 output.txt
+input.txt
 
 # OS files
 .DS_Store
