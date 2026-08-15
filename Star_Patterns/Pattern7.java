@@ -1,7 +1,7 @@
 import java.util.*;
 public class Pattern7 {
     /*
-    Pattern Triangle star Pattern
+Pattern star pyramid 
          * 
        * * * 
      * * * * *
